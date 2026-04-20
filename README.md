@@ -2,7 +2,7 @@
 
 Check out full documentation + explanations here:
 
-https://tobiasocula.github.io/Dynamics-Simulations/
+https://tobiasocula.github.io/Mechanics-Simulations/
 
 This repository is all about me having fun experimenting with building a relatively simple physics simulation.
 
